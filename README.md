@@ -8,7 +8,7 @@ A collection of my RB3 custom songs and progress. All tracks have stems, all ins
 | Train of Thought | Mother Sun | In-Progress - Tempo Mapping | N/A |  |
 
 # Audio Fixes
-These are direct mogg replacements for songs that have issues, usually due to poor multitrack separation (these are encrypted by default for PS3 users). For PS3 users, this can be a drag/drop replacement within the appropriate folder/ For 360 users, you will need to replace the mogg file in the CON file with Nautilus (formerly known as C3 Tools): bit.ly/nemoNAUTILUS
+These are direct mogg replacements for songs that have issues, usually due to poor multitrack separation (these are encrypted by default for PS3 users). For PS3 users, this can be a drag/drop replacement within the appropriate folder. For 360 users, you will need to replace the mogg file in the CON file with Nautilus (formerly known as C3 Tools): https://bit.ly/nemoNAUTILUS
 
 | Artist | Song Title | Status | Original Issue |
 | :--------: | :-------: | :---------------: | :------------: |
