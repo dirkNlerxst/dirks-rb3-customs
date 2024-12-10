@@ -3,8 +3,7 @@ A collection of my RB3 custom songs and progress. All tracks have stems, all ins
 
 | Artist | Song Title | Status | Video Preview | Notes |
 | :----------: | :---------: | :---------------: | :------------: | :------------: |
-| American Football | Never Meant | In-Progress - Vet Vocals, Reductions, Overall QA | N/A | Base from C3, completely overhaualed |
-| Green Day | 409 in Your Coffeemaker | In-Progress - Guitar, Bass, Vocals, Reductions, Overall QA | N/A | Dookie's Outtakes Version |
+| American Football | Never Meant | In-Progress - Vet Vocals, Reductions, Overall QA | N/A | Coming Soon |
 | Train of Thought | Mother Sun | In-Progress - Tempo Mapping | N/A |  |
 
 # MOGG Replacements
@@ -12,6 +11,5 @@ These are audio replacements for songs that have issues, or could benefit from a
 
 | Artist | Song Title | Status | Original Issue |
 | :----------: | :---------: | :---------------: | :------------: |
-| Green Day | Chump | Complete | Multitracks were unavailable for this song. Re-done with UVR |
+| Green Day | Chump | Complete | Multitracks were unavailable for this song. Re-done with UVR (censored version also available) |
 | Green Day | Longview | Complete | Multitracks were unavailable for this song. Re-done with UVR |
-| Third Eye Blind | Losing A Whole Year | In-Progress | GHtoRB3 conversion, left channel was processed incorrectly. Re-ripped from original GH5 CON, working on syncing up mogg |
